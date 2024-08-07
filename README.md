@@ -1,10 +1,12 @@
-### Hi there 👋, Harshavardhan Bhattad
-#### Java Full Stack Developer
 ![Java Full Stack Developer](https://github.com/Harshvb95/Harshvb95/blob/main/hvb_logo.png)
 
-I am a Software Developer enthusiast, someone who is passionate about coding. Currently training to be a Java Full Stack Developer.
+## Hi there 👋, I'm Harshavardhan Bhattad
+#### Java Full Stack Developer
 
-Skills: Java / HTML / CSS / JavaScript / SQL
+I am a Software Developer enthusiast, someone who is passionate about coding.
+Currently training to be a Java Full Stack Developer.
+
+### Skills: 🧑🏻‍💻 Java / HTML / CSS / JavaScript / SQL
 
 - 🔭 I’m currently working on Spring Framework 
 - 🌱 I’m currently learning Spring Boot  
